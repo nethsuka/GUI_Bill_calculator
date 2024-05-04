@@ -1,2 +1,2 @@
-# python_GUI_project
-Learn how to get GUI for a python program
+## GUI electricity bill calculator
+Python GUI program
